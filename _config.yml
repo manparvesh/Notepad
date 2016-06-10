@@ -45,7 +45,7 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    Asia/Kolkata
 future:      true
 highlighter: rouge
 markdown:    kramdown
@@ -72,7 +72,7 @@ kramdown:
 prose:
   rooturl: '_posts'
   siteurl: 'https://github.com/manparvesh/blog-gagan/'
-  relativeLinks: 'http://manparvesh.github.io/blog-gagan//links.jsonp'
+  relativeLinks: 'http://manparvesh.github.io/blog-gagan/links.jsonp'
   media: 'images'
   metadata:
     _posts:
